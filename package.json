@@ -1,0 +1,24 @@
+{
+  "name": "pretzilike",
+  "version": "1.0.0",
+  "description": "A pretzi like interface",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukalas/pretzilike.git"
+  },
+  "keywords": [
+    "pretzi",
+    "interactive",
+    "website"
+  ],
+  "author": "sukalas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sukalas/pretzilike/issues"
+  },
+  "homepage": "https://github.com/sukalas/pretzilike#readme"
+}
